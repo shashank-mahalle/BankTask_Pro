@@ -1,0 +1,10 @@
+﻿**/bin/
+**/obj/
+**/node_modules/
+**/build/
+.vs/
+.vscode/
+.env
+.env.*
+!.env.example
+*.log
